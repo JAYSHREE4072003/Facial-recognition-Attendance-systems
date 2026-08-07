@@ -1,0 +1,23 @@
+# Data (images are large and personal - don't commit them)
+data/
+lfw/
+lfw.tgz
+application_data/input_image/*
+application_data/verification_images/*
+!application_data/input_image/.gitkeep
+!application_data/verification_images/.gitkeep
+
+# Model artifacts
+training_checkpoints/
+*.h5
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
