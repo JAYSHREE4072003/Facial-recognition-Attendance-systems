@@ -130,6 +130,3 @@ file was lost. A few things were cleaned up along the way:
 - Koch, Zemel, Salakhutdinov — [*Siamese Neural Networks for One-shot Image Recognition*](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
 - [Labelled Faces in the Wild dataset](http://vis-www.cs.umass.edu/lfw/)
 
-## License
-
-Add a license of your choice (e.g. MIT) before publishing.
